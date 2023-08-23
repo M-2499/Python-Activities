@@ -1,6 +1,6 @@
 # Python-Activities
 
-Exploring My Python and Data Science Journey
+My Python and Data Science Journey
 
 Welcome to my personal repository showcasing a tapestry of Python and Data Science endeavors. This collection serves as a chronicle of my growth and skills refinement. Each topic explored represents a stepping stone in my journey, crafted with passion and precision to bring the world of programming, data manipulation, and visualization to life.
 
